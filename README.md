@@ -16,7 +16,7 @@ This repository contains the method-specific code used by the paper. The complet
 
 After extracting the release archive, the files under src/mmrotate mirror the corresponding paths in a compatible MMRotate checkout. Copy them into the matching paths of the framework checkout, then register the new classes through the framework's normal registry imports. The cma scripts expect detector outputs and dataset metadata in the formats described in their module docstrings.
 
-The paper's data split indices, experiment configurations, and complete reproducibility materials are being prepared separately. This release intentionally contains only the final contribution modules requested for public inspection.
+The archive includes the configuration snapshots and split-generation inputs used for the reported experiments. The original third-party datasets, generated patch images, checkpoints, prediction caches, and training logs are not redistributed.
 
 ## Reproducibility notes
 
