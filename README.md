@@ -2,7 +2,7 @@
 
 Contribution modules for CoMADet, Mining and Arbitrating Similar-Category Confusion for Small Object Detection in UAV and Remote Sensing Imagery.
 
-This repository contains the method-specific code used by the paper. The complete contribution-module release is provided as CoMADet-contribution-modules.zip. It does not include the full MMRotate framework, datasets, checkpoints, prediction caches, training logs, or generated results. Extract the archive and use the files under src with the upstream MMRotate and MMEngine/MMCV dependencies.
+This repository contains the method-specific code used by the paper. The complete contribution-module release is provided as CoMADet-contribution-modules.zip. The archive also contains the reproducibility configuration snapshots and split-generation inputs under reproducibility. It does not include the full MMRotate framework, datasets, checkpoints, prediction caches, training logs, or generated results. Extract the archive and use the files under src with the upstream MMRotate and MMEngine/MMCV dependencies.
 
 ## Included components
 
