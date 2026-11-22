@@ -1,1 +1,1 @@
-e8acf8fc6fff5401daaa13b4ed39bcad3940f415cc9fb1c6ea0376b42d428c0a  CoMADet-contribution-modules.zip
+84e5a763388c0528a1ed8750aa95ec080de68fd1e9522909a15055ecae6ae07d  CoMADet-contribution-modules.zip
